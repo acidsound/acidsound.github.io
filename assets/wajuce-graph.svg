@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="한 Dart 오디오 그래프가 Web Audio와 iPlug2로 연결되는 구조">
+ <defs><pattern id="dots" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.2" fill="#749780"/></pattern></defs>
+ <path fill="#b7cfaf" d="M0 0h800v500H0z"/><path fill="url(#dots)" d="M0 0h800v500H0z"/>
+ <g font-family="monospace" fill="#233e31"><text x="29" y="41" font-size="17" letter-spacing="2">WA / AUDIO GRAPH</text></g>
+ <g fill="none" stroke="#254e3b" stroke-width="4"><path d="M220 243h83q22 0 38-18l56-58q18-17 39-17h70M220 258h83q22 0 38 18l56 58q18 17 39 17h70"/><circle cx="221" cy="249" r="11" fill="#d7e6bf"/><circle cx="504" cy="150" r="8" fill="#d7e6bf"/><circle cx="504" cy="351" r="8" fill="#d7e6bf"/></g>
+ <g fill="#305740"><rect x="37" y="189" width="178" height="126" rx="7"/><rect x="518" y="98" width="249" height="108" rx="7"/><rect x="518" y="300" width="249" height="108" rx="7"/></g>
+ <g fill="#e4edcb" stroke="#254632" stroke-width="3"><rect x="32" y="182" width="178" height="126" rx="7"/><rect x="513" y="91" width="249" height="108" rx="7"/><rect x="513" y="293" width="249" height="108" rx="7"/></g>
+ <g font-family="monospace" fill="#27442f"><text x="50" y="213" font-size="14" letter-spacing="1">FLUTTER</text><text x="530" y="123" font-size="14" letter-spacing="1">BROWSER</text><text x="530" y="325" font-size="14" letter-spacing="1">NATIVE · C++</text></g>
+ <g font-family="Arial, sans-serif" font-weight="bold" fill="#1c3929"><text x="49" y="275" font-size="51" letter-spacing="-3">Dart</text><text x="529" y="173" font-size="43" letter-spacing="-2">Web Audio</text><text x="529" y="375" font-size="47" letter-spacing="-2">iPlug2</text></g>
+</svg>
